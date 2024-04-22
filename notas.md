@@ -1,6 +1,6 @@
 # Repository Used
 
-
+[Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)\
 [Visitor Badge](https://github.com/hehuapei/visitor-badge)\
 [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)\
 [Shields.io Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)\
