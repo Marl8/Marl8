@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Martín+Lemberger!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Argentina 🇦🇷</h3>
+<h3 align="center">A passionate software developer from Argentina <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1e6-1f1f7.svg" width="20" alt="🇦🇷"></h3>
 
 <br/>
 
