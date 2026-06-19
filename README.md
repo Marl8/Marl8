@@ -1,5 +1,5 @@
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=Marl8&style=flat-square&color=blue" alt=""/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Marl8.Marl8&style=flat-square&color=blue" alt=""/>
 </div>
 
 
